@@ -1,0 +1,14 @@
+- name: Arcadia Linux
+  description: An Arch based Linux Distribution
+  icon: 🐧
+  sourceLink: https://github.com/ArcadiaLinux/Arcadia
+
+- name: tasveer
+  description: A mass image download and manipulation tool in Python. 
+  icon: 🖼️
+  sourceLink: https://github.com/vitlug/tasveer
+
+- name: Dev Helper
+  description: A convenient Chrome extension for web developers. 
+  icon: 🛠️
+  sourceLink: https://github.com/vitlug/Dev-Helper

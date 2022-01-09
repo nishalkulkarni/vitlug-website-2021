@@ -1,0 +1,17 @@
+.contactList{
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 150px;
+}
+
+
+.contactList img{
+    width: 60px;
+    height: 60px;
+    margin-top: 50px;
+}
+
+.contactList img:hover{
+    transform: translateY(-10px);
+    transition: 0.3s ease;
+}

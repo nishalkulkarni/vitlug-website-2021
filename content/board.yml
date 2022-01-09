@@ -1,0 +1,62 @@
+- name: Nishal Kulkarni
+  position: Chairperson
+  image: board/nishal.jpeg
+  linkedin: https://www.linkedin.com/in/nishalkulkarni/
+  github: https://github.com/nishalkulkarni/
+  instagram: https://www.instagram.com/nishalkulkarni/  
+
+- name: Dhruv Chawla
+  position: Vice Chair
+  image: board/dhruv.jpeg
+  linkedin: https://www.linkedin.com/in/0xdc03/
+  github: https://github.com/dc03
+
+- name: Ayush Dwivedi
+  position: Secretary
+  image: board/ayush.png
+  linkedin: https://www.linkedin.com/in/ayushhdwi/
+  github: https://github.com/ayushhdwi
+  instagram: https://www.instagram.com/ayush_dwi/
+
+- name: Paarth Agrawal
+  position: Co-Secretary
+  image: board/paarth.jpeg
+  linkedin: https://www.linkedin.com/in/paarth-agrawal-57760b140/
+  github: https://github.com/Light-Y007
+
+- name: Nishit Pandit
+  position: Technical Head
+  image: board/nishit.jpg
+  linkedin: https://www.linkedin.com/in/nishit-pandit-4391ba1b4/
+  github: https://github.com/nishit0709
+
+- name: Shivang Kher
+  position: Design Head
+  image: board/shivang.jpg
+  linkedin: https://www.linkedin.com/in/shivang-kher-746761218
+  github: https://github.com/Shivang-kher
+
+- name: Chirag Madaan
+  position: Events Head
+  image: board/chirag.jpg
+  linkedin: https://www.linkedin.com/in/chirag-madaan-346673208/
+  github: https://github.com/chirag-madaan
+  
+- name: Kartik Gupta
+  position: Publicity Head
+  image: board/kartik.jpeg
+  linkedin: https://www.linkedin.com/in/kartik-gupta-b74435203/
+  github: https://github.com/nitrobang
+  instagram: https://www.instagram.com/kartik0970/
+
+- name: Pulkit Chahar
+  position: Management Head
+  image: board/linux-avatar.png
+  linkedin: https://www.linkedin.com/in/pulkit-chahar-120000219
+  github: https://github.com/NinjaShadow91 
+
+- name: Hariharan T
+  position: Editorial Head
+  image: board/hariharan.jpg
+  linkedin: https://www.linkedin.com/in/hariharan-t-57910a169/
+  github: https://github.com/kingofquestions29
